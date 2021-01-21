@@ -1,6 +1,6 @@
-// killometerToMeter // killometerToMeter 
-// killometerToMeter // killometerToMeter 
-// killometerToMeter // killometerToMeter 
+//https://github.com/piyas1234/assignment3/blob/assignment3/assignment.js
+ 
+ 
 // killometerToMeter // killometerToMeter 
 // killometerToMeter // killometerToMeter 
 function killometerToMeter(params) {
@@ -15,8 +15,9 @@ function killometerToMeter(params) {
 var result = killometerToMeter(1);
 console.log(result);
 
-// budgetCalculator // budgetCalculator 
-// budgetCalculator // budgetCalculator 
+  
+
+
 // budgetCalculator // budgetCalculator 
 // budgetCalculator // budgetCalculator 
 function budgetCalculator(watch, phone, leptop) {
@@ -33,10 +34,9 @@ function budgetCalculator(watch, phone, leptop) {
 }
 var result = budgetCalculator(-1, 1, 1);
 console.log(result);
-//hotelCost//hotelCost//hotelCost
-//hotelCost//hotelCost//hotelCost
-//hotelCost//hotelCost//hotelCost
-//hotelCost//hotelCost//hotelCost
+ 
+
+
 //hotelCost//hotelCost//hotelCost
 //hotelCost//hotelCost//hotelCost
 function hotelCost(night) {
@@ -73,9 +73,7 @@ console.log(result);
 
 
 
-// megaFriend megaFriend megaFriend
-// megaFriend megaFriend megaFriend
-// megaFriend megaFriend megaFriend
+ 
 // megaFriend megaFriend megaFriend
 // megaFriend megaFriend megaFriend
 
